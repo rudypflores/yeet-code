@@ -28,7 +28,7 @@ function App() {
               <img src={require('./img/Icons/green_arrow.png')} id="green-arrow" alt="green arrow"/>
             </div>
             <div className="bottom-right">
-              <p style={{ fontWeight:'bolder', color:'gray' }} className="slideRight">DESCRIPTION OF YEET MODES</p>
+              <p style={{ color:'gray', fontWeight:'300' }} className="slideRight"><b>Learn:</b> Polish your skills with a mentor<br/><b>Teach:</b> Show someone the way<br/><b>Competition:</b> Who said friendly competition hurt?</p>
             </div>
           </React.Fragment>
         );
@@ -124,8 +124,8 @@ function App() {
       {/* Middle Section */}
       <div id="banner">
         <div className="left">
-          <h1 id="title">CodePlay<br/>Learn</h1>
-          <h3 id="sub-title">Yeet code is a jhlasdkjfhalk that<br/> allows users to jfhakjsdh sdasjd shd ahds<br/> sajdhaksjd</h3>
+          <h1 id="title">Coach, Cooperate,<br/>Compete</h1>
+          <h3 id="sub-title">Yeet code is the best platform to solve problems cooperatively through teaching, study or competition</h3>
         </div>
         <div className="right">
           <img src={require('./img/homepage_img.png')} id="hero" alt="hero"/>

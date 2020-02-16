@@ -1,0 +1,11 @@
+#problem {
+    font-size: 0.9em;
+    background-color: #111111;
+    color:#FAFAFA;
+    padding:50px;
+}
+
+#problem p {
+    margin:0;
+    width:60%;
+}

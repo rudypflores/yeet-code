@@ -4,7 +4,7 @@ html {
 
 html, body {
   margin:0;
-  font-family: 'Arial';
+  font-family: 'Arial Black';
 }
 
 #main {
@@ -60,10 +60,13 @@ html, body {
 #title {
   font-weight: bolder;
   font-size: 5vw;
+  line-height:1.2;
   margin:0;
+  color:#242536;
 }
 
 #sub-title {
+  margin-top:20px;
   color:gray;
   font-weight: bolder;
 }
