@@ -1,15 +1,11 @@
 import React from 'react';
-import Video from '../components/video';
-import Compiler from '../components/compiler';
-import ProblemGenerator from '../components/problemsGenerator';
+import './ProblemScreen.css';
 
 
 const ProblemScreen = () => {
     return (
         <div>
-            <Video />
-            <Compiler />
-            <ProblemGenerator />
+            <p>Hello</p>
         </div>
     );
 };
