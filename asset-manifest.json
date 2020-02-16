@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yeet-code/static/css/main.872d0e4f.chunk.css",
+    "main.js": "/yeet-code/static/js/main.2cd256b5.chunk.js",
+    "main.js.map": "/yeet-code/static/js/main.2cd256b5.chunk.js.map",
+    "runtime-main.js": "/yeet-code/static/js/runtime-main.e4158cb6.js",
+    "runtime-main.js.map": "/yeet-code/static/js/runtime-main.e4158cb6.js.map",
+    "static/js/2.10b4562a.chunk.js": "/yeet-code/static/js/2.10b4562a.chunk.js",
+    "static/js/2.10b4562a.chunk.js.map": "/yeet-code/static/js/2.10b4562a.chunk.js.map",
+    "index.html": "/yeet-code/index.html",
+    "precache-manifest.32b15ac9662261bd5d1293ee94f7f0c8.js": "/yeet-code/precache-manifest.32b15ac9662261bd5d1293ee94f7f0c8.js",
+    "service-worker.js": "/yeet-code/service-worker.js",
+    "static/css/main.872d0e4f.chunk.css.map": "/yeet-code/static/css/main.872d0e4f.chunk.css.map",
+    "static/js/2.10b4562a.chunk.js.LICENSE.txt": "/yeet-code/static/js/2.10b4562a.chunk.js.LICENSE.txt",
+    "static/media/homepage_img.png": "/yeet-code/static/media/homepage_img.35663a3c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4158cb6.js",
+    "static/js/2.10b4562a.chunk.js",
+    "static/css/main.872d0e4f.chunk.css",
+    "static/js/main.2cd256b5.chunk.js"
+  ]
+}
