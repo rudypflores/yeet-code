@@ -1,10 +1,9 @@
 import React from 'react';
+import CodeMirror from 'codemirror';
 
 
 const ProblemScreen = () => {
-    return (
-        <p>Hello</p>
-    );
+
 };
 
 export default ProblemScreen;

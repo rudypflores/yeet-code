@@ -28,7 +28,7 @@ function App() {
               <img src={require('./img/Icons/green_arrow.png')} id="green-arrow" alt="green arrow"/>
             </div>
             <div className="bottom-right">
-              <p style={{ fontWeight:'bolder', color:'gray' }}>DESCRIPTION OF YEET MODES</p>
+              <p style={{ fontWeight:'bolder', color:'gray' }} className="slideRight">DESCRIPTION OF YEET MODES</p>
             </div>
           </React.Fragment>
         );
@@ -89,7 +89,7 @@ function App() {
                 </div>
                 <label>HARD</label>
               </div>
-              <div className="bottom-right" style={{ alignItems:'center', justifyContent:'center'}}>
+              <div className="bottom-right" style={{ alignItems:'center', justifyContent:'center', marginTop:'25px'}}>
                 {
                   next ?
                   <React.Fragment>
