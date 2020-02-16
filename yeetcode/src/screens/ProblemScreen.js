@@ -4,7 +4,7 @@ import Editor from '../components/Editor';
 import 'codemirror/addon/runmode/runmode';
 import 'codemirror/mode/meta';
 import 'codemirror/mode/javascript/javascript';
-
+import Cam from '../components/Cam';
 
 const ProblemScreen = () => {
 
@@ -21,6 +21,7 @@ const ProblemScreen = () => {
 
     return(
         <div>
+            <Cam/>
             <div id="problem">
             <p>
             132 Pattern<br/>
